@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530632917 source:h:\uva hunt\ami agei\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
